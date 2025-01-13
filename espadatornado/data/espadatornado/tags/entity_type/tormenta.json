@@ -1,0 +1,23 @@
+{
+    "values": [
+      "minecraft:zombie",
+      "minecraft:zombie_villager",
+      "minecraft:skeleton",
+      "minecraft:wither_skeleton",
+      "minecraft:creeper",
+      "minecraft:cave_spider",
+      "minecraft:spider",
+      "minecraft:zombified_piglin",
+      "minecraft:silverfish",
+      "minecraft:piglin",
+      "minecraft:piglin_brute",
+      "minecraft:vindicator",
+      "minecraft:vex",
+      "minecraft:ravager",
+      "minecraft:evoker",
+      "minecraft:enderman",
+      "minecraft:endermite",
+      "minecraft:shulker"
+    ]
+  }
+  
